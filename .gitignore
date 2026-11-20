@@ -1,0 +1,13 @@
+# Godot
+.godot/
+/android/
+*.import.tmp
+
+# Export output
+/build/
+*.apk
+*.aab
+*.ipa
+
+# OS
+.DS_Store
